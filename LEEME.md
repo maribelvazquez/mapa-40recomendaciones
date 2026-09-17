@@ -12,11 +12,14 @@ Fuente: FATF (2012-2026), International Standards on Combating Money Laundering 
 
 Secciones de la app: Las 40, La cadena DDC, ¿Recomendación o Nota?, Parejas que confunden, Umbrales, Practicar ▸.
 
-Banco de reactivos: 98 de opción múltiple (4 opciones), verificados contra el texto oficial:
-  - El país: riesgos, delitos y sanciones (R.1–8): 26
-  - Conocer al cliente (R.9–16): 26
-  - Controlar, reportar y beneficiario final (R.17–25): 24
-  - Autoridades y cooperación (R.26–40): 22
+Banco de reactivos: 205 de opción múltiple (4 opciones), verificados contra el texto oficial:
+  - A · Políticas y coordinación (R.1–2): 11
+  - B · Lavado de dinero y decomiso (R.3–4): 14
+  - C · Terrorismo y proliferación (R.5–8): 26
+  - D · Medidas preventivas (R.9–23): 74
+  - E · Transparencia y beneficiario final (R.24–25): 11
+  - F · Autoridades (R.26–35): 49
+  - G · Cooperación internacional (R.36–40): 20
 
 ## Cómo publicarla
 
