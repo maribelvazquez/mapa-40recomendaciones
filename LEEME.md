@@ -1,7 +1,7 @@
 # Mapa de las 40 Recomendaciones del GAFI
 
 App de estudio de 360Educa (GMC360) para Reto 40 · Certificación CNBV PLD/FT.
-Ruta: Transversales. Armada el 16/09/2026.
+Ruta: Transversales. Armada el 03/10/2026.
 
 Fuente: FATF (2012-2026), International Standards on Combating Money Laundering and the Financing of Terrorism &amp; Proliferation · The FATF Recommendations, adoptadas por el Pleno en febrero de 2012 y actualizadas a junio de 2026. Resumen y traducción didáctica de 360Educa.
 
@@ -10,7 +10,7 @@ Fuente: FATF (2012-2026), International Standards on Combating Money Laundering 
 - `index.html` — la app completa: mapa mental, Modo recitar, trampas, cifras y simulador con los reactivos. Al terminar una ronda o simulacro, el alumno puede imprimir o guardar en PDF su resultado y las preguntas que falló, con la respuesta y su fundamento. No necesita ningún otro archivo, base de datos ni clave de API; funciona en cualquier navegador.
 - `LEEME.md` — este archivo.
 
-Secciones de la app: Las 40, La cadena DDC, ¿Recomendación o Nota?, Parejas que confunden, Umbrales, Practicar ▸.
+Secciones de la app: Las 40, La cadena DDC, ¿Recomendación o Nota?, Parejas que confunden, Umbrales, Repaso en clase, Practicar ▸.
 
 Banco de reactivos: 205 de opción múltiple (4 opciones), verificados contra el texto oficial:
   - A · Políticas y coordinación (R.1–2): 11
