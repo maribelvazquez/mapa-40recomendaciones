@@ -10,7 +10,7 @@ Fuente: FATF (2012-2026), International Standards on Combating Money Laundering 
 - `index.html` — la app completa: mapa mental, Modo recitar, trampas, cifras y simulador con los reactivos. Al terminar una ronda o simulacro, el alumno puede imprimir o guardar en PDF su resultado y las preguntas que falló, con la respuesta y su fundamento. No necesita ningún otro archivo, base de datos ni clave de API; funciona en cualquier navegador.
 - `LEEME.md` — este archivo.
 
-Secciones de la app: Las 40, La cadena DDC, ¿Recomendación o Nota?, Parejas que confunden, Umbrales, Repaso en clase, Practicar ▸.
+Secciones de la app: Las 40, La cadena DDC, ¿Recomendación o Nota?, Parejas que confunden, Umbrales, Repaso en clase, Simulacro ▸.
 
 Banco de reactivos: 262 de opción múltiple (4 opciones), verificados contra el texto oficial:
   - A · Políticas y coordinación (R.1–2): 15
